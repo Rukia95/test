@@ -1,2 +1,6 @@
 bonjour Rukia
+<<<<<<< HEAD
 Tu vas bien ?
+=======
+je suis la
+>>>>>>> new 2
