@@ -1,5 +1,11 @@
 bonjour Rukia
+<<<<<<< HEAD
 
 =======
 je suis la
 
+=======
+Tu vas bien ?
+
+Test 3
+>>>>>>> Test conflict
